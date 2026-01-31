@@ -10,7 +10,7 @@ Two decades of shipping has taught me that the "best" technology is the one that
 ### Frontend
 ![](https://skillicons.dev/icons?i=css,electron,html,javascript,nextjs,react,sass,tailwindcss,typescript,vite,vitest,webpack)
 
-## Infra
+### Infra
 ![](https://skillicons.dev/icons?i=aws,docker,dynamodb,gcp,kubernetes,mysql,nginx,postgresql,prometheus,redis,sqlite,terraform)
 
 ### Tools & SaaS
