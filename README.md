@@ -18,7 +18,8 @@ Two decades of shipping has taught me that the "best" technology is the one that
 
 ## Projects
 * 🏎️ hotlaps.io, sim-racing telemetry community tool to become faster at racing. Acquired by Driver61, turned into trophi.ai
-* 🔎 [twinned.it](https://twinned.it), find local matches abroad to shops you know from home
+* 🔎 [twinned.it](https://twinned.it), find local matches abroad to shops you know from home. Still active.
+* ☎️ Stealth AI Voice Agent project, launching soon. Using Elevenlabs, Twilio and more.
 * 🅿️ Park'ed, iOS app to save where you parked your car to easily find it again, use the Park'ed Cloud to find parking spots. Since retired project.
 * ⏰ Interval+, iOS app to set recurring reminders in intervals that iOS did not support at that point. Since retired project.
 * 👾 Popodot, a remake of the Dot-o-pop iOS game, made with approval from the original maker, since retired.
