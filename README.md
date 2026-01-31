@@ -1,5 +1,7 @@
-## Hi there, I'm Bjorn a Senior Engineering Leader 👋
-Builder, Maker | Ex-Startup Director | Ex-Facebook | Ex-MessageBird
+## Hi there, I'm Bjorn a Senior Engineering Leader but mostly a builder and maker👋
+Engineering leader who builds: systems that handle millions of requests, teams that ship with confidence, and workflows where AI amplifies human judgment. 0 → 1 builder and scale-up architect. $XM+ ARR through engineering that drives business outcomes.
+
+Ex-Facebook | Ex-MessageBird | Ex-Startup Director
 
 ## Stack
 Two decades of shipping has taught me that the "best" technology is the one that solves the actual problem with minimal complexity. Deep experience with TypeScript/C#/PHP/AWS, but no religious attachments - just pragmatic engineering.
