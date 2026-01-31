@@ -5,7 +5,7 @@ Builder, Maker | Ex-Startup Director | Ex-Facebook | Ex-MessageBird
 Two decades of shipping has taught me that the "best" technology is the one that solves the actual problem with minimal complexity. Deep experience with TypeScript/C#/PHP/AWS, but no religious attachments - just pragmatic engineering.
 
 ### Backend
-![](https://skillicons.dev/icons?i=cs,dotnet,dynamodb,fastapi,golang,graphql,laravel,nextjs,nodejs,php,python)
+![](https://skillicons.dev/icons?i=typescript,nodejs,python,cs,dotnet,fastapi,golang,graphql,laravel,nextjs,php)
 
 ### Frontend
 ![](https://skillicons.dev/icons?i=css,electron,html,javascript,nextjs,react,sass,tailwindcss,typescript,vite,vitest,webpack)
