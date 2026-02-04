@@ -30,7 +30,7 @@ Two decades of shipping has taught me that the "best" technology is the one that
 * 🅿️ Park'ed, iOS app to save where you parked your car to easily find it again, use the Park'ed Cloud to find parking spots. Since retired project.
 * ⏰ Interval+, iOS app to set recurring reminders in intervals that iOS did not support at that point. Since retired project.
 * 👾 Popodot, a remake of the Dot-o-pop iOS game, made with approval from the original maker, since retired.
-* [@codegefluester/infra-Blocks](https://github.com/codegefluester/infra-blocks), opinionated building blocks for SST that I use for my projects. Open Source and MIT licensed.
+* [@codegefluester/infra-blocks](https://github.com/codegefluester/infra-blocks), opinionated building blocks for SST that I use for my projects. Open Source and MIT licensed.
 
 <!--
 **codegefluester/codegefluester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
